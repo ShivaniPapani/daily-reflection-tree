@@ -27,3 +27,14 @@ To prevent hallucinations:
 ## How to Run
 
 Run the deterministic reflection system:
+python reflection_tree.py
+
+Run the AI reflection assistant:
+
+python ai_agent.py
+
+## Future Improvements
+
+- Store reflections in a database
+- Track productivity trends
+- Integrate with an AI model for deeper analysis
